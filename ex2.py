@@ -6,4 +6,4 @@ Physics = int(input("Input score Physics: "))
 
 average_score = (Geometry + Algebra + Physics) / 3
 
-print (average_score)
+print ("Good job, your average scpre is " + str(average_score) +", good job!")
