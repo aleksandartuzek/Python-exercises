@@ -1,4 +1,4 @@
-In this example, you will learn to swap two variables by using a temporary variable and, without using temporary variable.
+In this example, you will learn to swap two variables by using a temporary variable and without using temporary variable.
 
 1) Without temporary variable.
 
