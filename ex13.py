@@ -3,6 +3,7 @@
 product_price = int(input("Input product price : "))
 location = input("Input your destination (US, Europe, Canada, Other): ")
 
+antartic = 11
 us = 5
 europe = 7
 canada = 3
